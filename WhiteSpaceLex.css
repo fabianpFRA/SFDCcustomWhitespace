@@ -1,0 +1,20 @@
+.THIS .theCard{
+	width: 97.5%;
+    margin: 0 auto;
+}
+.THIS .slds-card__footer{
+    height: 30px;
+    display: block;
+}
+.THIS .headingText{
+    height: 40px;
+}
+.THIS .leftCol{
+    width: 150px;
+}
+.THIS .imageSize{
+    max-height: 100px;
+}
+.THIS .margin{
+    margin-right: 10px;
+}
