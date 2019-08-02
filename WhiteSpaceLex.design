@@ -1,0 +1,9 @@
+<design:component label="Custom Whitespace">
+    <design:attribute name="theTitle" label="Card Title" description="Title of the card"/>
+	<design:attribute name="theColumns" label="Column Names" description="Column names seperated by ,"/>
+    <design:attribute name="theLeftCols" label="Left Column Values" description="Left Column values seperated by ,"/>
+    <design:attribute name="theFields" label="Field Values" description="Field values seperated by ,"/>
+    <design:attribute name="theLeftColWidth" label="Left Column Row Width" description="Width of the left column in px" default="150px"/>
+    <design:attribute name="theRowHeight" label="Row Height" description="Height of the rows in px" default="40px"/>
+    <design:attribute name="theImageHeight" label="Image Height" description="Max height of the images in px" default="40px"/>
+</design:component>
